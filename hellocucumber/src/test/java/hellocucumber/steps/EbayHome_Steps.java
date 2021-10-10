@@ -1,10 +1,10 @@
-package hellocucumber;
+package hellocucumber.steps;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class StepDefinitions {
+public class EbayHome_Steps {
 
     @Given("I am on Ebay Home page")
     public void i_am_on_ebay_home_page() {
